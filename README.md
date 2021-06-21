@@ -30,19 +30,19 @@ sudo python3 FALL.py
 ## Examples and screenshots 💥
 
 <h3>Crawling urls</h1>
-![crawl urls](https://github.com/DevanshRaghav75/FALL/blob/main/examples/crawl_urls.png)
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/crawl_urls.png"/>
 <h3>LFI testing</h3>
-![lfi testing](https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png)
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png"/>
 <h3>Encoder</h3>
-![encoder](https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png)
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png"/>
 <h3>Finding subdomains</h3>
-![subenum](https://github.com/DevanshRaghav75/FALL/blob/main/examples/subdomain_enum.png)
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/subdomain_enum.png"/>
 <h3>Direcotry brute forcing</h3>
-![dirbusting](https://github.com/DevanshRaghav75/FALL/blob/main/examples/directory_brute_forcing.png)
+<img scr="https://github.com/DevanshRaghav75/FALL/blob/main/examples/directory_brute_forcing.png"/>
 <h3>Reverse shell generator</h3>
-![shell](https://github.com/DevanshRaghav75/FALL/blob/main/examples/reverse_shell_generator.png)
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/reverse_shell_generator.png"/>
 <h3>Open redirection testing</h3>
-![OpenR](https://github.com/DevanshRaghav75/FALL/blob/main/examples/OpenRedirection_testing.png)
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/OpenRedirection_testing.png"/>
 
 
 
