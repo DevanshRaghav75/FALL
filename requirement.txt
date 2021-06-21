@@ -1,0 +1,6 @@
+base64
+emoji
+hashlib
+requests
+BeautifulSoup
+colorama
