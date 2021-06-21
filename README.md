@@ -42,7 +42,7 @@ sudo python3 FALL.py
 <h3>Reverse shell generator</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/reverse_shell_generator.png" width="600" height="300" />
 <h3>Open redirection testing</h3>
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/OpenRedirection_testing.png" width="600" height="300" />
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/OpenRedirection_testing.png" width="600" height="400" />
 
 
 
