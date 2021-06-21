@@ -7,19 +7,15 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-```bah
-pip install foobar
+# Features🍳
+```features
+1. Url crawling
+2. LFI testing
+3. Encoder
+4. Subdomains finder
+5. Directory brute forcing
+6. Reverse shell generator
+7. Open Redirection testing
 ```
 
-
-
-
-
-
-
-
-# Features🍳
-
-1. Url crawling
-2. 
 
