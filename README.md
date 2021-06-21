@@ -37,13 +37,12 @@ sudo python3 FALL.py
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="550" height="350" />
 <h3>Finding subdomains</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="550" height="400" />
-<h3>Direcotry brute forcing</h3>
-<img scr="https://github.com/DevanshRaghav75/FALL/blob/main/examples/directory_brute_forcing.png" width="400" height="400"/>
 <h3>Reverse shell generator</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/reverse_shell_generator.png" width="600" height="300" />
 <h3>Open redirection testing</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/OpenRedirection_testing.png" width="700" height="350" />
-
+<h3>Direcotry Brute Forcing</h3>
+<img scr="https://github.com/DevanshRaghav75/FALL/blob/main/examples/directory_brute_forcing.png" width="400" height="400"/>
 
 
 
