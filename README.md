@@ -32,12 +32,21 @@ sudo python3 FALL.py
 <h3>## Crawling urls</h1>
 
 ```crawler
+[>] SET: 1
 [>] URL: https://www.example.com
 ```
 
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/crawl_urls.png" width="600" height="550" />
 
 <h3>## LFI testing</h3>
+
+```crawler
+[>] SET: 2
+[>] URL: https://www.example.com/?q=FUZZ
+[>] Payloads: /path/to/payloads/lfi_payloads.txt
+[>] Placeholder: FUZZ
+```
+
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png" width="750" height="400" />
 <h3>## Encoder</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="550" height="350" />
