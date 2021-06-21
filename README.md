@@ -34,7 +34,7 @@ sudo python3 FALL.py
 <h3>LFI testing</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png" width="700" height="400" />
 <h3>Encoder</h3>
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="500" height="300" />
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="550" height="350" />
 <h3>Finding subdomains</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="550" height="400" />
 <h3>Direcotry brute forcing</h3>
