@@ -59,6 +59,7 @@ sudo python3 FALL.py
 [>] Enter what you want to encode: <script>alert(1)</script>
 ```
 
+<br>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="550" height="350" /><br>
 <br>
 <h3>## Finding subdomains</h3>
@@ -70,6 +71,7 @@ sudo python3 FALL.py
 [>] Wordlist: /path/to/wordlist/wordlist.txt
 ```
 
+<br>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="560" height="400" /><br>
 <br>
 <h3>## Reverse shell generator</h3>
@@ -82,6 +84,7 @@ sudo python3 FALL.py
 [>] LPORT: 8080
 ```
 
+<br>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/reverse_shell_generator.png" width="600" height="300" /><br>
 <br>
 <h3>## Open redirection testing</h3>
@@ -94,6 +97,7 @@ sudo python3 FALL.py
 [>] Placeholder: FUZZ
 ```
 
+<br>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/OpenRedirection_testing.png" width="700" height="350" />
 
 
