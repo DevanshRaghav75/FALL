@@ -180,6 +180,7 @@ while True:
 
             filename = input(Fore.CYAN + "[SUBENUM] " + Style.RESET_ALL + "[>] Wordlist: ") 
             print(Fore.GREEN + '[INFO] ' + Style.RESET_ALL + "All discovered domains will be auto saved to Discovered_subdomains.txt file.")
+            print('')
 
             with open(filename, "r") as file:
                 for subdomain in file.readlines():
