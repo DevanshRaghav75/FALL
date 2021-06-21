@@ -53,8 +53,6 @@ sudo python3 FALL.py
 [>] Placeholder: FUZZ
 ```
 
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png" width="750" height="400" /><br>
-<br>
 <h3>## Encoder</h3>
 <br>
 
@@ -64,8 +62,6 @@ sudo python3 FALL.py
 [>] Enter what you want to encode: <script>alert(1)</script>
 ```
 
-<br>
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="550" height="350" /><br>
 <br>
 <h3>## Finding subdomains</h3>
 <br>
