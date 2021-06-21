@@ -42,8 +42,7 @@ sudo python3 FALL.py
 [>] URL: https://www.example.com
 ```
 
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/crawl_urls.png" width="600" height="550" /><br>
-<br>
+
 <h3>## LFI testing</h3>
 <br>
 
@@ -77,8 +76,7 @@ sudo python3 FALL.py
 [>] Wordlist: /path/to/wordlist/wordlist.txt
 ```
 
-<br>
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="560" height="400" /><br>
+
 <br>
 <h3>## Reverse shell generator</h3>
 <br>
@@ -91,8 +89,7 @@ sudo python3 FALL.py
 ```
 
 <br>
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/reverse_shell_generator.png" width="600" height="300" /><br>
-<br>
+
 <h3>## Open redirection testing</h3>
 <br>
 
@@ -103,8 +100,6 @@ sudo python3 FALL.py
 [>] Placeholder: FUZZ
 ```
 
-<br>
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/OpenRedirection_testing.png" width="700" height="350" />
 
 
 
