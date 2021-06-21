@@ -32,7 +32,7 @@ sudo python3 FALL.py
 <h3>Crawling urls</h1>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/crawl_urls.png" width="500" height="300" />
 <h3>LFI testing</h3>
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png" width="500" height="300" />
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png" width="500" height="400" />
 <h3>Encoder</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="500" height="300" />
 <h3>Finding subdomains</h3>
