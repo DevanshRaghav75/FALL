@@ -54,6 +54,7 @@ while True:
             print(Fore.GREEN + '[INFO] ' + Style.RESET_ALL + "If you are facing errors while crawling the urls like - OSError, Try using www. in your url.")
             time.sleep(1)
             print(Fore.YELLOW + '[WARNING] ' + Style.RESET_ALL + "Ignore # sign if you found that in the result.")
+            print('')
             time.sleep(2)
             url = requests.get(crawl)
             soup = BeautifulSoup(url.text, 'html.parser')
