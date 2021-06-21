@@ -36,7 +36,7 @@ sudo python3 FALL.py
 [>] URL: https://www.example.com
 ```
 
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/crawl_urls.png" width="600" height="550" />
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/crawl_urls.png" width="600" height="550" /><br>
 
 <h3>## LFI testing</h3>
 
@@ -47,17 +47,24 @@ sudo python3 FALL.py
 [>] Placeholder: FUZZ
 ```
 
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png" width="750" height="400" />
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png" width="750" height="400" /><br>
 <h3>## Encoder</h3>
 
 ```crawler
-[>] SET: 1
-[>] Encoding: HTML
+[>] SET: 3
+[>] Enter encoding: HTML
 [>] Enter what you want to encode: <script>alert(1)</script>
 ```
 
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="550" height="350" />
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="550" height="350" /><br>
 <h3>## Finding subdomains</h3>
+
+```crawler
+[>] SET: 4
+[>] URL: example.com
+[>] Wordlist: /path/to/wordlist/wordlist.txt
+```
+
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="560" height="400" />
 <h3>## Reverse shell generator</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/reverse_shell_generator.png" width="600" height="300" />
