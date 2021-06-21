@@ -1,6 +1,6 @@
-<h1>FALL<h1>
+<h1 align="center">FALL<h1>
 
-<h3>A tool with multiple features !<h3>
+<h3 align="center">A tool with multiple features !<h3>
 
 # Features🍳
 
