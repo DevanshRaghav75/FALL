@@ -17,5 +17,14 @@
 6. Reverse shell generator
 7. Open Redirection testing
 ```
+## Installation⚙️
+```installation
+1. git clone https://github.com/DevanshRaghav75/FALL.git
+2. chmod +x FALL.py
+3. pip install -r requirement
+
+
+
+
 
 
