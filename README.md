@@ -21,9 +21,15 @@
 ```installation
 1. sudo git clone https://github.com/DevanshRaghav75/FALL.git
 2. sudo chmod +x FALL.py
-3. sudo pip install -r requirement
+3. sudo pip install -r requirement.txt
 ```
 ## Usage 👨‍💻
 ```usage
 sudo python3 FALL.py
 ```
+## Examples and screenshots 💥
+
+<h3>Crawling urls</h1>
+
+
+
