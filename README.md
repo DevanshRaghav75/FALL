@@ -49,6 +49,13 @@ sudo python3 FALL.py
 
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/LFI_testing.png" width="750" height="400" />
 <h3>## Encoder</h3>
+
+```crawler
+[>] SET: 1
+[>] Encoding: HTML
+[>] Enter what you want to encode: <script>alert(1)</script>
+```
+
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="550" height="350" />
 <h3>## Finding subdomains</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="560" height="400" />
