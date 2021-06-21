@@ -8,7 +8,6 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub commits](https://img.shields.io/github/commits-since/DevanshRaghav75/FALL/1.0.svg)](https://GitHub.com/DevanshRaghav75/FALL/commit/main)
-[![Github all releases](https://img.shields.io/github/downloads/DevanshRaghav75/FALL/total.svg)](https://GitHub.com/DevanshRaghav75/FALL/releases/)
 
 
 
