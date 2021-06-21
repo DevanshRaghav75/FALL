@@ -1,5 +1,5 @@
 <h1 align="center">FALL</h1>
-<img align="center" src="https://github.com/DevanshRaghav75/FALL/blob/main/FALL%20logo.png"/>
+<p align="left"><img src="https://github.com/DevanshRaghav75/FALL/blob/main/FALL%20logo.png"/>
 <h3 align="center">A tool with multiple features !</h3>
 
 # Features🍳
