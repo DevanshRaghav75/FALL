@@ -36,7 +36,7 @@ sudo python3 FALL.py
 <h3>Encoder</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/encoder.png" width="500" height="300" />
 <h3>Finding subdomains</h3>
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="500" height="300" />
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="550" height="400" />
 <h3>Direcotry brute forcing</h3>
 <img scr="https://github.com/DevanshRaghav75/FALL/blob/main/examples/directory_brute_forcing.png" width="400" height="400"/>
 <h3>Reverse shell generator</h3>
