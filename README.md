@@ -44,7 +44,6 @@ sudo python3 FALL.py
 
 
 <h3>## LFI testing</h3>
-<br>
 
 ```crawler
 [>] SET: 2
@@ -54,7 +53,6 @@ sudo python3 FALL.py
 ```
 
 <h3>## Encoder</h3>
-<br>
 
 ```crawler
 [>] SET: 3
@@ -62,9 +60,7 @@ sudo python3 FALL.py
 [>] Enter what you want to encode: <script>alert(1)</script>
 ```
 
-<br>
 <h3>## Finding subdomains</h3>
-<br>
 
 ```crawler
 [>] SET: 4
@@ -73,9 +69,7 @@ sudo python3 FALL.py
 ```
 
 
-<br>
 <h3>## Reverse shell generator</h3>
-<br>
 
 ```crawler
 [>] SET: 5
@@ -84,10 +78,8 @@ sudo python3 FALL.py
 [>] LPORT: 8080
 ```
 
-<br>
 
 <h3>## Open redirection testing</h3>
-<br>
 
 ```crawler
 [>] SET: 7
