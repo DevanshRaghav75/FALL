@@ -61,12 +61,20 @@ sudo python3 FALL.py
 
 ```crawler
 [>] SET: 4
-[>] URL: example.com
+[>] Domain: example.com
 [>] Wordlist: /path/to/wordlist/wordlist.txt
 ```
 
-<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="560" height="400" />
+<img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/Subdomain_enum.png" width="560" height="400" /><br>
 <h3>## Reverse shell generator</h3>
+
+```crawler
+[>] SET: 5
+[>] Shell: BASH
+[>] LHOST: 192.168.x.x
+[>] LPORT: 8080
+```
+
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/reverse_shell_generator.png" width="600" height="300" />
 <h3>## Open redirection testing</h3>
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/OpenRedirection_testing.png" width="700" height="350" />
