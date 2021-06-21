@@ -31,6 +31,7 @@ sudo python3 FALL.py
 
 <h3>## Crawling urls</h1>
 ```cu
+[>] URL: https://www.example.com
 ```
 <img src="https://github.com/DevanshRaghav75/FALL/blob/main/examples/crawl_urls.png" width="600" height="550" />
 <h3>## LFI testing</h3>
