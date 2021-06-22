@@ -32,7 +32,7 @@
 ```usage
 sudo python3 FALL.py
 ```
-## Examples and screenshots 💥
+## Examples 💥
 
 <h3>## Crawling urls</h1>
 
