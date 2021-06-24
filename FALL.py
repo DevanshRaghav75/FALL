@@ -38,7 +38,7 @@ def main():
     print('====>  ' + "[5] " + Fore.CYAN + "Directory brute forcing" + Style.RESET_ALL)
     print('====>  ' + "[6] " + Fore.CYAN + "Reverse shell generator" + Style.RESET_ALL)
     print('====>  ' + "[7] " + Fore.CYAN + "Open redirect testing" + Style.RESET_ALL)
-    print('====>  ' + "[8] " + Fore.CYAN + "Multithreaded port scanner" + Style.RESET_ALL)
+    print('====>  ' + "[8] " + Fore.CYAN + "Multi threaded port scanner" + Style.RESET_ALL)
     print('')
     print('====>  ' + "[C] " + Fore.GREEN + "Clear" + Style.RESET_ALL)
     print('====>  ' + "[X] " + Fore.RED + "Exit" + Style.RESET_ALL)
