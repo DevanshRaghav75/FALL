@@ -21,6 +21,7 @@
 5. Directory brute forcing
 6. Reverse shell generator
 7. Open Redirection testing
+8. Multi threaded port scanner
 ```
 ## Installation⚙️
 ```installation
@@ -86,6 +87,12 @@ sudo python3 FALL.py
 [>] Payloads: /path/to/payloads/payload.txt
 [>] Placeholder: FUZZ
 ```
+
+<h3>## Open redirection testing</h3>
+
+```port scanner
+[>] Target: 192.168.x.x
+[>] Scan up to port (ex would be 1000): 65535
 
 
 
