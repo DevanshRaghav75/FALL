@@ -30,7 +30,7 @@
 ```installation
 1. sudo git clone https://github.com/DevanshRaghav75/FALL.git
 2. sudo chmod +x FALL.py
-3. sudo pip install -r requirement.txt
+3. sudo pip install -r requirements.txt
 ```
 ## Usage 👨‍💻
 ```usage
