@@ -8,6 +8,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub commits](https://img.shields.io/github/commits-since/DevanshRaghav75/FALL/1.0-beta.svg)](https://GitHub.com/DevanshRaghav75/FALL/commit/main)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/DevanshRaghav75/FALL.svg)](https://GitHub.com/DevanshRaghav75/FALL/issues?q=is%3Aissue+is%3Aclosed)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 
 
