@@ -93,11 +93,12 @@ sudo python3 FALL.py
 [>] Placeholder: FUZZ
 ```
 
-<h3>## Open redirection testing</h3>
+<h3>## Multi threaded port scanner</h3>
 
 ```port scanner
 [>] Target: 192.168.x.x
 [>] Scan up to port (ex would be 1000): 65535
+```
 
 
 
