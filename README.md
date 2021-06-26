@@ -33,6 +33,7 @@ You can also install FALL using pip
 ```insall by pip
 pip install FALL
 ```
+Or you can install FALL manually
 
 ```installation
 1. sudo git clone https://github.com/DevanshRaghav75/FALL.git
