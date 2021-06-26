@@ -46,6 +46,11 @@ Or you can install ```FALL``` manually
 ```usage
 Just type FALL after running the setup.py
 ```
+
+## Warning⚠️
+Up to ```FALL v1.3``` does not work without super user (root user) so make sure you run ```FALL``` as a super user.
+
+
 ## Examples 💥
 
 <h3>## Crawling urls</h1>
