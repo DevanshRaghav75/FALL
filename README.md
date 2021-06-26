@@ -31,7 +31,7 @@
 ## Installation⚙️
 You can also install FALL using pip
 ```insall by pip
-pip install FALL
+pip install **FALL**
 ```
 Or you can install FALL manually
 
