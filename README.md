@@ -19,14 +19,14 @@
 
 ## Features🍳
 ```features
-1. Url crawling
+1. Crawling
 2. LFI testing
 3. Encoder
 4. Subdomains finder
 5. Directory brute forcing
 6. Reverse shell generator
 7. Open Redirection testing
-8. Multi threaded port scanner
+8. Multithreaded port scanner
 ```
 ## Installation⚙️
 ```installation
