@@ -1,5 +1,4 @@
 emoji
-hashlib
 bs4
 requests
 colorama
