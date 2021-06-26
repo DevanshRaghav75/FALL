@@ -29,6 +29,11 @@
 8. Multithreaded port scanner
 ```
 ## Installation⚙️
+You can also install FALL using pip
+```insall by pip
+pip install FALL
+```
+
 ```installation
 1. sudo git clone https://github.com/DevanshRaghav75/FALL.git
 2. sudo chmod +x setup.py
