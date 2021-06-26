@@ -1,6 +1,6 @@
 emoji
 hashlib
+bs4
 requests
-BeautifulSoup
 colorama
 
