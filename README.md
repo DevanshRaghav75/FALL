@@ -9,7 +9,7 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/DevanshRaghav75/FALL/1.0-beta.svg)](https://GitHub.com/DevanshRaghav75/FALL/commit/main)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/DevanshRaghav75/FALL.svg)](https://GitHub.com/DevanshRaghav75/FALL/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub license](https://img.shields.io/github/license/DevanshRaghav75/FALL.svg)](https://github.com/DevanshRaghav75/FALL/blob/master/LICENSE.md)
-[![PyPI version shields.io](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI version shields.io](https://img.shields.io/badge/pypi-v1.4-green)](https://img.shields.io/badge/pypi-v1.4-green)
 
 
 
