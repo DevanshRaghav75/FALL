@@ -31,12 +31,14 @@
 ## Installation⚙️
 ```installation
 1. sudo git clone https://github.com/DevanshRaghav75/FALL.git
-2. sudo chmod +x FALL.py
+2. sudo chmod +x setup.py
 3. sudo pip install -r requirements.txt
+4. python3 setup.py install
+4. Done! , Just type FALL to run FALL tool  
 ```
 ## Usage 👨‍💻
 ```usage
-sudo python3 FALL.py
+Just type FALL after running the setup.py
 ```
 ## Examples 💥
 
