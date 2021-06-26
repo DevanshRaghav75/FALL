@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name = "FALL",
-    version = "1.2",
+    version = "1.3",
     author = "Devansh Raghav",
     author_email = "indiananonymous75@gmail.com",
     description = ("A automated penetration testing tool"),
