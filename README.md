@@ -54,7 +54,7 @@ Or you can install ```FALL``` manually
 4. python3 setup.py install
 4. Done! , Just type FALL to run FALL tool  
 ```
-## Usage 👨‍💻
+## Running FALL 👨‍💻
 
 ```usage
 Just type FALL after running the setup.py or after running pip install FALL
@@ -66,64 +66,12 @@ Just type FALL after running the setup.py or after running pip install FALL
 Up to ```FALL v1.4``` does not work without super user (root user) so make sure you run ```FALL``` as a super user.
 
 
-## Examples 💥
+## Usage 💥
 
-<h3>## Crawling urls</h1>
-
-```crawler
-[>] SET: 1
-[>] URL: https://www.example.com
-```
+A detailed usage guide is available on <a href="https://github.com/DevanshRaghav75/FALL/wiki#usage">Usage/> section of the Wiki.
 
 
-<h3>## LFI testing</h3>
-
-```crawler
-[>] SET: 2
-[>] URL: https://www.example.com/?q=FUZZ
-[>] Payloads: /path/to/payloads/lfi_payloads.txt
-[>] Placeholder: FUZZ
-```
-
-<h3>## Encoder</h3>
-
-```crawler
-[>] SET: 3
-[>] Enter encoding: HTML
-[>] Enter what you want to encode: <script>alert(1)</script>
-```
-
-<h3>## Finding subdomains</h3>
-
-```crawler
-[>] SET: 4
-[>] Domain: example.com
-[>] Wordlist: /path/to/wordlist/wordlist.txt
-```
 
 
-<h3>## Reverse shell generator</h3>
-
-```crawler
-[>] SET: 5
-[>] Shell: BASH
-[>] LHOST: 192.168.x.x
-[>] LPORT: 8080
-```
 
 
-<h3>## Open redirection testing</h3>
-
-```crawler
-[>] SET: 7
-[>] URL: http://testphp.vulnweb.com:80/redir.php?r=FUZZ
-[>] Payloads: /path/to/payloads/payload.txt
-[>] Placeholder: FUZZ
-```
-
-<h3>## Multi threaded port scanner</h3>
-
-```port scanner
-[>] Target: 192.168.x.x
-[>] Scan up to port (ex would be 1000): 65535
-```
