@@ -6,12 +6,12 @@ def read(fname):
 
 setup(
     name = "FALL",
-    version = "1.4",
+    version = "1.5",
     author = "Devansh Raghav",
     author_email = "indiananonymous75@gmail.com",
     description = ("A automated penetration testing tool"),
     license = "MIT",
-    keywords = ["FALL", "Bug Bounty", "pentesting", "security"],
+    keywords = ["FALL", "Bug Bounty", "pentesting", "security", "hacking"],
     url = "https://github.com/DevanshRaghav75/FALL",
     packages=find_packages(),
     long_description=read('README.md'),
