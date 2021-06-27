@@ -58,7 +58,7 @@ Or you can install ```FALL``` manually
 ## Usage 👨‍💻
 
 ```usage
-Just type FALL after running the setup.py
+Just type FALL after running the setup.py or after running pip install FALL
 ```
 
 ## Warning⚠️
