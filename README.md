@@ -90,7 +90,7 @@ Links to some FALL options:
 * <a href="https://github.com/DevanshRaghav75/FALL/wiki#multithreaded-port-scanner">Multithreaded port scanner</a>
 
 ## Special thanks 🙏
-Thanks to <a href="http://pentestmonkey.net">pentestmonkey</a> for there amazing reverse shells.
+Thanks to <a href="http://pentestmonkey.net">pentestmonkey</a> for their amazing reverse shells.
 
 
 
