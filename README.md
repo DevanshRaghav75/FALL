@@ -13,13 +13,19 @@
 
 
 
+## What is FALL
 
+FALL is a automated penetration testing tool that makes your work easy by automating eight types of jobs like - Subdomain enumeration, LFI testing, Crawling, Port scanning and more.
 
+## Why FALL
 
-
-
+1. ```FALL``` supports many options that will help you in penetration testing, In short - It is a ALL IN ONE tool.
+2. Multithreaded - Multithreaded ```crawler``` and ```port scanner``` will make your work more fast.
+3. ```FALL``` is user friendly and easy to use, You can use ```FALL``` by just setting the options number.
+4. It auto saves the outputs in a file.
 
 ## Features🍳
+
 ```features
 1. Crawling
 2. LFI testing
@@ -31,6 +37,7 @@
 8. Multithreaded port scanner
 ```
 ## Installation⚙️
+
 You can also install ```FALL``` using pip
 ```insall by pip
 pip install FALL
@@ -45,11 +52,14 @@ Or you can install ```FALL``` manually
 4. Done! , Just type FALL to run FALL tool  
 ```
 ## Usage 👨‍💻
+
 ```usage
 Just type FALL after running the setup.py
 ```
 
 ## Warning⚠️
+
+
 Up to ```FALL v1.4``` does not work without super user (root user) so make sure you run ```FALL``` as a super user.
 
 
@@ -114,9 +124,3 @@ Up to ```FALL v1.4``` does not work without super user (root user) so make sure 
 [>] Target: 192.168.x.x
 [>] Scan up to port (ex would be 1000): 65535
 ```
-
-
-
-
-
-
