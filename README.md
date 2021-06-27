@@ -68,8 +68,18 @@ Up to ```FALL v1.4``` does not work without super user (root user) so make sure 
 
 ## Usage 💥
 
-A detailed usage guide is available on <a href="https://github.com/DevanshRaghav75/FALL/wiki#usage"Usage/> section of the Wiki.
+A detailed usage guide is available on <a href="https://github.com/DevanshRaghav75/FALL/wiki#usage">Usage</a> section of the Wiki.
 
+Links to some FALL options:
+
+* <a href="https://github.com/DevanshRaghav75/FALL/wiki#crawling-a-url">Crawling a URL</a>
+* <a href="https://github.com/DevanshRaghav75/FALL/wiki#testing-for-lfi-bugs">Testing for LFI bugs</a>
+* <a href="https://github.com/DevanshRaghav75/FALL/wiki#encoding-into-different-algorithms">Encoding into different algorithms</a>
+* <a href="https://github.com/DevanshRaghav75/FALL/wiki#finding-subdomains">Finding subdomains</a>
+* <a href="https://github.com/DevanshRaghav75/FALL/wiki#reverse-shell-generator">Generating reverse shells</a>
+* <a href="https://github.com/DevanshRaghav75/FALL/wiki#directory-brute-forcing">Directory brute forcing</a>
+* <a href="https://github.com/DevanshRaghav75/FALL/wiki#open-redirection-testing">Open redirect testing</a>
+* <a href="https://github.com/DevanshRaghav75/FALL/wiki#multithreaded-port-scanner">Multithreaded port scanner</a>
 
 
 
