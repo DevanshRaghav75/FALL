@@ -14,7 +14,7 @@
 
 ## What is FALL?
 
-```FALL``` is a automated penetration testing tool that makes your work easy by automating eight types of jobs like - Subdomain enumeration, LFI testing, Crawling, Port scanning and more.
+```FALL``` is a automated penetration testing tool that makes your work easy by automating eight types of jobs like - <a href="https://github.com/DevanshRaghav75/FALL/wiki#finding-subdomains">Subdomain enumeration</a>, <a href="https://github.com/DevanshRaghav75/FALL/wiki#testing-for-lfi-bugs">LFI testing</a>, <a href="https://github.com/DevanshRaghav75/FALL/wiki#crawling-a-url">Crawling</a>, <a href="https://github.com/DevanshRaghav75/FALL/wiki#multithreaded-port-scanner">Port scanning and more.</a>
 
 
 ## Why FALL?
