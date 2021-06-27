@@ -68,7 +68,7 @@ Just type FALL after running the setup.py or after running pip install FALL
 ## Warning⚠️
 
 
-Up to ```FALL v1.4``` does not work without super user (root user) so make sure you run ```FALL``` as a super user.
+Up to ```FALL v1.5``` does not work without super user (root user) so make sure you run ```FALL``` as a super user.
 
 
 ## Usage 💥
