@@ -27,6 +27,7 @@ setup(
         'requests',
         'emoji',
         'bs4',
+        'colorama',
     ],
 
     entry_points={
