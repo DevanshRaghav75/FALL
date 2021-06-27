@@ -20,7 +20,7 @@ print(Fore.GREEN + Style.BRIGHT + '''
 
               ███████╗  █████╗ ██╗     ██╗     
               ██╔════╝ ██╔══██╗██║     ██║     
-              █████╗   ███████║██║     ██║    v1.7
+              █████╗   ███████║██║     ██║    v1.8
               ██╔══╝   ██╔══██║██║     ██║     
               ██║      ██║  ██║███████╗███████╗
               ╚═╝      ╚═╝  ╚═╝╚══════╝╚══════╝
@@ -88,7 +88,7 @@ def main():
 
         except KeyboardInterrupt:
             print('')
-            yn = input(Fore.YELLOW + "[!]" + Style.RESET_ALL + " Do want to exit FALL (y/n): ")
+            yn = input(Fore.YELLOW + "[!]" + Style.RESET_ALL + " Do you want to exit FALL (y/n): ")
             print('')
 
             if yn == 'y':
