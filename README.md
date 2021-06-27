@@ -26,7 +26,7 @@
 
 ## PyPi link
 
-```PyPi FALL```:  https://pypi.org/project/FALL/
+```PyPi FALL``` : https://pypi.org/project/FALL/
 
 
 ## Features🍳
