@@ -23,9 +23,11 @@
 3. ```FALL``` is user friendly and easy to use, You can use ```FALL``` by just setting the options number.
 4. It auto saves the outputs in a file.
 
+
 ## PyPi link
 
 ```PyPi FALL```:  https://pypi.org/project/FALL/
+
 
 ## Features🍳
 
@@ -39,6 +41,7 @@
 7. Open Redirection testing
 8. Multithreaded port scanner
 ```
+
 ## Installation⚙️
 
 You can also install ```FALL``` using pip
@@ -54,11 +57,13 @@ Or you can install ```FALL``` manually
 4. python3 setup.py install
 4. Done! , Just type FALL to run FALL tool  
 ```
+
 ## Running FALL 👨‍💻
 
 ```usage
 Just type FALL after running the setup.py or after running pip install FALL
 ```
+
 
 ## Warning⚠️
 
@@ -67,6 +72,7 @@ Up to ```FALL v1.4``` does not work without super user (root user) so make sure 
 
 
 ## Usage 💥
+
 
 A detailed usage guide is available on <a href="https://github.com/DevanshRaghav75/FALL/wiki#usage">Usage</a> section of the Wiki.
 
