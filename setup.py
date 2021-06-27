@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name = "FALL",
-    version = "1.3",
+    version = "1.4",
     author = "Devansh Raghav",
     author_email = "indiananonymous75@gmail.com",
     description = ("A automated penetration testing tool"),
@@ -21,6 +21,12 @@ setup(
         "Topic :: Security",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
+    ],
+    package_data={'FALL': ['db/*']},
+    install_requires=[
+        'requests',
+        'emoji',
+        'bs4',
     ],
 
     entry_points={
