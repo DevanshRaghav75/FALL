@@ -29,7 +29,7 @@
 ```PyPi FALL``` : https://pypi.org/project/FALL/
 
 
-## Features🍳
+## Features 🍳
 
 ```features
 1. Crawling
@@ -42,7 +42,7 @@
 8. Multithreaded port scanner
 ```
 
-## Installation⚙️
+## Installation ⚙️
 
 You can install ```FALL``` using pip by using the following command:
 ```insall by pip
@@ -86,6 +86,9 @@ Links to some FALL options:
 * <a href="https://github.com/DevanshRaghav75/FALL/wiki#directory-brute-forcing">Directory brute forcing</a>
 * <a href="https://github.com/DevanshRaghav75/FALL/wiki#open-redirection-testing">Open redirect testing</a>
 * <a href="https://github.com/DevanshRaghav75/FALL/wiki#multithreaded-port-scanner">Multithreaded port scanner</a>
+
+## Special thanks 🙏
+Thanks to <a href="http://pentestmonkey.net">pentestmonkey</a> for there amazing reverse shells.
 
 
 
