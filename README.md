@@ -24,6 +24,10 @@ FALL is a automated penetration testing tool that makes your work easy by automa
 3. ```FALL``` is user friendly and easy to use, You can use ```FALL``` by just setting the options number.
 4. It auto saves the outputs in a file.
 
+## pypi link
+
+https://pypi.org/project/FALL/
+
 ## Features🍳
 
 ```features
