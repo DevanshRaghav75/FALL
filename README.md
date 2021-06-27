@@ -68,7 +68,7 @@ Up to ```FALL v1.4``` does not work without super user (root user) so make sure 
 
 ## Usage 💥
 
-A detailed usage guide is available on <a href="https://github.com/DevanshRaghav75/FALL/wiki#usage">Usage/> section of the Wiki.
+A detailed usage guide is available on <a href="https://github.com/DevanshRaghav75/FALL/wiki#usage"Usage/> section of the Wiki.
 
 
 
