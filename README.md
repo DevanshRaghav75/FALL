@@ -16,7 +16,6 @@
 
 ```FALL``` is a automated penetration testing tool that makes your work easy by automating eight types of jobs like - Subdomain enumeration, LFI testing, Crawling, Port scanning and more.
 
-<br>
 
 ## Why FALL?
 
@@ -25,13 +24,11 @@
 3. ```FALL``` is user friendly and easy to use, You can use ```FALL``` by just setting the options number.
 4. It auto saves the outputs in a file.
 
-<br>
 
 ## PyPi link
 
 ```PyPi FALL``` : https://pypi.org/project/FALL/
 
-<br>
 
 ## Features 🍳
 
@@ -45,7 +42,6 @@
 7. Open Redirection testing
 8. Multithreaded port scanner
 ```
-<br>
 
 ## Installation ⚙️
 
@@ -54,7 +50,6 @@ You can install ```FALL``` using pip by using the following command:
 pip install FALL
 ```
 
-<br>
 
 Or you can install ```FALL``` manually
 
@@ -66,22 +61,17 @@ Or you can install ```FALL``` manually
 4. Done! , Just type FALL to run FALL tool  
 ```
 
-<br>
-
 ## Running FALL 👨‍💻
 
 ```usage
 Just type FALL after running the setup.py or after running pip install FALL
 ```
 
-<br>
-
 ## Warning⚠️
 
 
 Up to ```FALL v1.5``` does not work without super user (root user) so make sure you run ```FALL``` as a super user.
 
-<br>
 
 ## Usage 💥
 
@@ -98,8 +88,6 @@ Links to some FALL options:
 * <a href="https://github.com/DevanshRaghav75/FALL/wiki#directory-brute-forcing">Directory brute forcing</a>
 * <a href="https://github.com/DevanshRaghav75/FALL/wiki#open-redirection-testing">Open redirect testing</a>
 * <a href="https://github.com/DevanshRaghav75/FALL/wiki#multithreaded-port-scanner">Multithreaded port scanner</a>
-
-<br>
 
 ## Special thanks 🙏
 Thanks to <a href="http://pentestmonkey.net">pentestmonkey</a> for there amazing reverse shells.
