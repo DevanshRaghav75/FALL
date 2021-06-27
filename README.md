@@ -15,7 +15,7 @@
 
 ## What is FALL?
 
-FALL is a automated penetration testing tool that makes your work easy by automating eight types of jobs like - Subdomain enumeration, LFI testing, Crawling, Port scanning and more.
+```FALL``` is a automated penetration testing tool that makes your work easy by automating eight types of jobs like - Subdomain enumeration, LFI testing, Crawling, Port scanning and more.
 
 ## Why FALL?
 
@@ -26,7 +26,7 @@ FALL is a automated penetration testing tool that makes your work easy by automa
 
 ## PyPi link
 
-```PyPi FALL``` https://pypi.org/project/FALL/
+```PyPi FALL```:  https://pypi.org/project/FALL/
 
 ## Features🍳
 
