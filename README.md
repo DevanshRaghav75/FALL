@@ -1,5 +1,5 @@
 <h1 align="center">FALL</h1>
-<p align="center"><img src="https://github.com/DevanshRaghav75/FALL/blob/main/FALL_logo.png"/>
+<p align="center"><img src="https://github.com/DevanshRaghav75/FALL/blob/main/FALL_logo.png" hight="400"/>
 <h3 align="center">A automated penetration testing tool</h3>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
