@@ -44,7 +44,7 @@
 
 ## Installation⚙️
 
-You can also install ```FALL``` using pip
+You can install ```FALL``` using pip by using the following command:
 ```insall by pip
 pip install FALL
 ```
